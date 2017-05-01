@@ -1,5 +1,5 @@
 Requirements:
-    Qt4
+    Qt4 (You may need to apply a patch, qt-everywhere-opensource-src-4.8.6-for_gcc_5_and_6.patch)
     cmake
     qtermwidget (https://github.com/qterminal/qtermwidget)
 
